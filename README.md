@@ -1,2 +1,2 @@
 # websitebot
-this is the bot
+Amazon web-scraper
